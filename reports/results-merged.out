@@ -1,0 +1,13 @@
+(venv_interview) sujit@DESKTOP-E69BINK:/mnt/d/Machine Vision/Sports Video CV/interview-detection$ python src/interview_detection/detect_interview.py data/processed/merged-2.mp4 
+
+**************************************************
+video_path:      data/processed/merged-2.mp4
+
+Duration (s):    00:04:29
+# frames:        8080
+Frame rate:      30
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+frame_counter:   8080
+Start time (s):  00:00:27
+End time (s):    00:04:09
