@@ -78,4 +78,4 @@ Project Structure
 
 --------
 
-<p><small>Project created using the <a target="_blank" href="https://github.com/sujitahirrao/flask-ai-api-template">Flask AI API Template</a>.</small></p>
+<p><small>Project created using the <a target="_blank" href="https://github.com/sujitahirrao/ai-project-template">AI Project Template</a>.</small></p>
